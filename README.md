@@ -1,4 +1,5 @@
 # 1.0 House Rocket
+
 O conjunto de dados em questão refere-se à plataforma de negócios digitais House Rocket que compra imóveis em boas localizações a preços baixos e vendem com valores altos.
 E este conjunto de dados contém preços de venda de casas para King County, que inclui Seattle. Inclui casas vendidas entre maio de 2014 e maio de 2015.
 
@@ -38,5 +39,6 @@ E este conjunto de dados contém preços de venda de casas para King County, que
 
 # Resolução 
 
-O conteúdo deste curso contemplou a aplicação da linguagem python, extração, manipulação e transformação de dados, estruturas de controle, funções e organização de códigos além de visualização de dados para responder questões de negócios, sendo elaborada uma página por meio da biblioteca streamlit. A página foi disponibilizada com o deploy no Heroku e pode ser acessado por meio do link: (https://analysis-house-stream.herokuapp.com/)
+O conteúdo deste curso contemplou a aplicação da linguagem python, extração, manipulação e transformação de dados, estruturas de controle, funções e organização de códigos além de visualização de dados para responder questões de negócios, sendo elaborada uma página por meio da biblioteca streamlit. A página foi disponibilizada com o deploy no Heroku e pode ser acessado por meio do link: https://analysis-house-stream.herokuapp.com/
+
 
