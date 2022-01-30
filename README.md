@@ -43,4 +43,4 @@ O conteúdo deste curso contemplou a aplicação da linguagem python, extração
 
 <p align="center">
   <img width="460" height="300" src="src/assets/to_readme/app_dashboard_Streamlit.gif">
- </p>
+</p>
