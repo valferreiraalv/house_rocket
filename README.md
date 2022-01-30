@@ -3,4 +3,4 @@ O conjunto de dados em questão refere-se à plataforma de negócios digitais Ho
 
 # 2.0 Etapas 
 
-
+- [aula 01_python.py](https://github.com/valferreiraalv/house_rocket/blob/main/notebooks/aula01_python.py)
